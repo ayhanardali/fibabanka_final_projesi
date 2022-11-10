@@ -3,27 +3,27 @@ This repo includes Fibabanka Speed Bootcamp's final project.
 
 Bu proje basit bir e-ticaret uygulamasının belirli işlemlerini içermektedir. Commerce mikroservisi, Inventory ve Shopping mikroservisleri üzerinden işlemlerini gerçekleştirmektedir. Projede kullanılan veritabanındaki örnek verileri aşağıda bulabilirsiniz.
 
-Product Table:
+**Product** Table:
 
 
 ![image](https://user-images.githubusercontent.com/102681681/201107059-95929cd8-be17-41b9-a643-f727c334eeaf.png)
 
-Category Table:
+**Category** Table:
 
 
 ![image](https://user-images.githubusercontent.com/102681681/201107335-800f3b7f-18f3-4292-ab6b-e6489fa093fb.png)
 
-Cart Table:
+**Cart** Table:
 
 
 ![image](https://user-images.githubusercontent.com/102681681/201107446-f68b5abd-a57a-4049-95a1-fc76e39e81fb.png)
 
-CartProduct Table:
+**CartProduct** Table:
 
 
 ![image](https://user-images.githubusercontent.com/102681681/201107563-48e23ba2-3979-4dd0-9ace-3a0594f3015d.png)
 
-Projede Commerce uygulaması 8080 numaralı porttan, Inventory uygulaması 8081 numaralı porttan ve Shopping uygulaması ise 8082 numaralı porttan çalışmaktadır.
+Projede Commerce uygulaması **8080** numaralı porttan, Inventory uygulaması **8081** numaralı porttan ve Shopping uygulaması ise **8082** numaralı porttan çalışmaktadır.
 
 Her modülü kendi portları üzerinden MVC Client ile test edebileceğiniz client sınıfları da bulunmaktadır. Şimdi Commerce uygulaması ile bazı veritabanı işlemleri yapalım ve çıktıları görelim.
 
